@@ -14,7 +14,7 @@ permalink: /:title/
 
 # Site
 title: 'Mborgbo'
-description: 'mborgbo: musings and yawning by Jibrin Jaafaru'
+description: 'Mborgbo: musings and yawning by Jibrin Jaafaru'
 url: https://mborgbo.github.io
 logo: /img/logo.png
 timezone: America/Los_Angeles
