@@ -1,4 +1,4 @@
-# [swiftweekly.github.io](https://swiftweekly.github.io) ![CI](https://github.com/swiftweekly/swiftweekly.github.io/workflows/CI/badge.svg)
+# [mborgbo.github.io](https://mborgbo.github.io) ![CI](https://github.com/mborgbo/mborgbo.github.io/workflows/CI/badge.svg)
 
 *A community-driven weekly newsletter about [Swift.org](https://swift.org)*
 
