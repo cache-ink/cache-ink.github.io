@@ -13,16 +13,16 @@ exclude: [vendor, Dangerfile, Gemfile, Gemfile.lock, LICENSE, README.md, CODE_OF
 permalink: /:title/
 
 # Site
-title: 'Swift Weekly Brief'
-description: 'A community-driven weekly newsletter about Swift.org'
-url: https://swiftweeklybrief.com
+title: 'mborgo: musings and yawning'
+description: 'mborgbo: musings and yawning by Jibrin Jaafaru'
+url: https://mborgbo.github.io
 logo: /img/logo.png
 timezone: America/Los_Angeles
 
-repo_name: swiftweekly.github.io
+repo_name: mborgbo.github.io
 
 twitter:
-    username: swiftlybrief
+    username: jbrnjfr
 
 # Setup
 excerpt_separator: <!--excerpt-->
@@ -30,11 +30,10 @@ excerpt_separator: <!--excerpt-->
 # Data
 links:
     rss: '/feed.xml'
-    twitter: 'https://twitter.com/swiftlybrief'
-    github: 'https://github.com/SwiftWeekly/swiftweekly.github.io'
-    issue: 'https://github.com/SwiftWeekly/swiftweekly.github.io/issues/new'
-    pull: 'https://github.com/SwiftWeekly/swiftweekly.github.io/compare'
-    applenews: 'https://apple.news/TIlGIYluMTGWA-CIToVtF4Q'
+    twitter: 'https://twitter.com/jbrnjfr'
+    github: 'https://github.com/mborgbo/mborgbo.github.io'
+    issue: 'https://github.com/Smborgbo/mborgbo.github.io/issues/new'
+    pull: 'https://github.com/mborgbo/mborgbo.github.io/compare'
 
 
 paginate: 25
