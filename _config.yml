@@ -13,7 +13,7 @@ exclude: [vendor, Dangerfile, Gemfile, Gemfile.lock, LICENSE, README.md, CODE_OF
 permalink: /:title/
 
 # Site
-title: 'mborgo: musings and yawning'
+title: 'Mborgbo'
 description: 'mborgbo: musings and yawning by Jibrin Jaafaru'
 url: https://mborgbo.github.io
 logo: /img/logo.png
