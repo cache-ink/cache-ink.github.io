@@ -13,8 +13,8 @@ exclude: [vendor, Dangerfile, Gemfile, Gemfile.lock, LICENSE, README.md, CODE_OF
 permalink: /:title/
 
 # Site
-title: 'Mborgbo:'
-description: 'Mborgbo: musings and yawning by Jibrin Jaafaru'
+title: 'cache-ink:'
+description: 'cache-ink: My thoughts. No filter. No permission needed.'
 url: https://mborgbo.github.io
 logo: /img/logo.png
 timezone: America/Los_Angeles
